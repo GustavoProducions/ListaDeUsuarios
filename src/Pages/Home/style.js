@@ -4,7 +4,6 @@ export const Container = styled.div`
     text-align: center;
     margin: 20px 0;
     padding: 10px;
-    background-color: #ababab;
     border: 10px
 `;
 
